@@ -1,5 +1,6 @@
 
 import os, sys
+import qrcode
 
 from win32com.client import Dispatch
 
